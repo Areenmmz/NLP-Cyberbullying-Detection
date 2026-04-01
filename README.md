@@ -34,3 +34,5 @@ A variety of machine learning algorithms are implemented, compared, and tuned. T
 
 ### **6. Evaluation & Deployment**
 The performance is measured using **Accuracy and F1-Score** to ensure accurate identification of bullying instances. These saved models are integrated into a **Gradio-based Graphical User Interface (GUI)**, allowing users to input text and receive instant classification results.
+
+full code in : Cyberbullying_Detection.ipynb
